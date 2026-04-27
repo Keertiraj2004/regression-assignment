@@ -1,0 +1,5 @@
+Model,Score
+Linear,0.85
+Polynomial,0.88
+Ridge,0.87
+Lasso,0.84
