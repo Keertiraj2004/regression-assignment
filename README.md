@@ -280,7 +280,7 @@ By working through this assignment, the following skills are demonstrated:
 
 <div align="center">
 
-**Ananya Mangaj**  
+**Keertiraj Kamble**  
 *Machine Learning Assignment — Regression Algorithms*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
