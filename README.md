@@ -13,7 +13,7 @@
 
 <br/>
 
-> **From salary prediction to housing prices — a hands-on exploration of 5 regression algorithms, regularization techniques, and model evaluation.** 
+> **From salary prediction to housing prices — a hands-on exploration of 5 regression algorithms, regularization techniques, and model evaluation.**
 
 <br/> 
 
