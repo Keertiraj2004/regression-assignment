@@ -19,7 +19,7 @@
 
 [📖 Overview](#-overview) • [🧪 Algorithms](#-algorithms-covered) • [📊 Results](#-model-performance) • [📁 Structure](#-project-structure) • [🚀 Quick Start](#-quick-start) • [📚 Concepts](#-key-concepts)
 
-</div>
+</div> 
 
 
 ---
