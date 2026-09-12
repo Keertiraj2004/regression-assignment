@@ -56,7 +56,7 @@ model.fit(X_train, y_train)
 
 ---
 
-### 2️⃣ Multiple Linear Regression
+### 2️⃣ Multiple Linear Regression 
 > `notebooks/2_multiple_linear_regression.ipynb`
 
 **Dataset:** `housing_dataset.csv` — Area, Bedrooms, Bathrooms → Price  
