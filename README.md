@@ -74,7 +74,7 @@ y = df['price']
 
 ---
 
-### 3️⃣ Polynomial Regression
+### 3️⃣ Polynomial Regression 
 > `notebooks/3_polynomial_regression.ipynb`
 
 **Dataset:** `polynomial_dataset.csv`  
