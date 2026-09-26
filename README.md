@@ -54,7 +54,7 @@ model.fit(X_train, y_train)
 - **Target:** Salary
 - **Output:** Regression line plot + R² / MSE
 
----
+--- 
 
 ### 2️⃣ Multiple Linear Regression 
 > `notebooks/2_multiple_linear_regression.ipynb`
