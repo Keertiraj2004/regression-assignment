@@ -62,7 +62,7 @@ model.fit(X_train, y_train)
 **Dataset:** `housing_dataset.csv` — Area, Bedrooms, Bathrooms → Price  
 **Concept:** Extends linear regression to multiple input features: `y = b₀ + b₁x₁ + b₂x₂ + ... + bₙxₙ`
 
-```python
+```python 
 # Features: area, bedrooms, bathrooms → Target: price
 X = df[['area', 'bedrooms', 'bathrooms']]
 y = df['price']
